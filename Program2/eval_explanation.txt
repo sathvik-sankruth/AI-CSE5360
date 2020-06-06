@@ -1,0 +1,4 @@
+Eval function considers all possible combinations of four fields horizontal, vertical, diagonal backslash \ , diagonal forwardslash/. 
+GetUnBlockedThrees method checks if 3 pieces are aligned and there is room for the fourth piece to get a point. 
+Min utility Max utility gives us the min max values. 
+All these factors are computed and the computer chooses the best play . 
