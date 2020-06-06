@@ -24,10 +24,10 @@ There are 3 classes:
 * Max_Utility() Calculates the maximum utility value.
 
 
-4. To Compile
+To Compile
 javac Maxconnect4.java AiPlayer.java Gameboard.java
 
-5. To run the program
+To run the program
 * One-Move mode:
 java Maxconnect4 one-move [input_file] [output_file] [depth]
 Eg:java Maxconnect4 one-move input2.txt output1.txt 2
