@@ -35,4 +35,11 @@ Eg:java Maxconnect4 one-move input2.txt output1.txt 2
 * Interactive Mode
 java Maxconnect4 interactive [input file] [computer-next / human-next] [depth]
 Eg:java Maxconnect4 interactive input2.txt computer-next 2
-![alt text]()
+![alt text](https://github.com/sathvik-sankruth/AI-CSE5360/blob/master/Program2/Screen%20Shot%202020-06-05%20at%208.44.23%20PM.png)
+
+![alt text](https://github.com/sathvik-sankruth/AI-CSE5360/blob/master/Program2/Screen%20Shot%202020-06-05%20at%208.46.10%20PM.png)
+
+![alt text](https://github.com/sathvik-sankruth/AI-CSE5360/blob/master/Program2/Screen%20Shot%202020-06-05%20at%208.47.34%20PM.png)
+
+
+
