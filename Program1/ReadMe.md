@@ -11,3 +11,4 @@
 2. FOR INFORMED SEARCH:
 * COMMAND LINE:python find_route_informed.py input.txt source destination hueristic_file
 * EXAMPLE: python find_route_informed.py input1.txt Bremen Kassel h_kassel.txt
+![alt text](https://github.com/sathvik-sankruth/AI-CSE5360/blob/master/Program1/Screen%20Shot%202020-06-05%20at%209.03.46%20PM.png)
